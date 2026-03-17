@@ -1,0 +1,401 @@
+subject,object,original_label
+peptide hydrolases,multicatalytic endopeptidase complex,broader
+credentialing,licensing,broader
+fetal therapies,amnioscopy,broader
+systemic inflammatory response syndrome,hypercytokinemias,broader
+dryopteridaceae,dryopteris,broader
+fatty acids,octanoates,broader
+birnaviridae,entomobirnavirus,broader
+urogenital system,genital organs,broader
+prognosis,neoplasm staging,broader
+mutation,mutation frequency,broader
+connective tissue cells,tissue basophil,broader
+cell physiological phenomena,membrane fluidities,broader
+trefoil factors,trefoil factor 2,broader
+zoonoses,bacterial zoonose,broader
+tumor suppressor proteins,schwannomin protein,broader
+archaeal proteins,halorhodopsin,broader
+histological techniques,autoradiography,broader
+vitamin a,tretinoin,broader
+radiofrequency therapy,pulsed radio frequency treatment,broader
+biographies as topic,autobiography as topic,broader
+skin abnormalities,bids syndrome,broader
+organogenesis,neurogeneses,broader
+public health,endemic disease,broader
+eukaryota,drip clade,broader
+amphibian venoms,physalaemin,broader
+heart diseases,heart decompensation,broader
+dystonic disorders,progressive torsion spasm,broader
+animal diseases,veterinary venereal tumor,broader
+reproductive control agents,abortifacient effect,broader
+tooth diseases,tooth abnormalities,broader
+magnetic resonance spectroscopy,heteronuclear nmr,broader
+disorders of excessive somnolence,narcolepsy,broader
+immunoglobulin isotypes,polyglobin,broader
+noxae,toxin antibody conjugates,broader
+orphan nuclear receptors,nuclear receptor nr4a1,broader
+neuromuscular manifestations,kymatism,broader
+urinary tract infections,schistosoma haematobia infection,broader
+genetic structures,episomes,broader
+pons,barrington nucleus,broader
+wounds and injuries,foreign bodies,broader
+glyoxal,methylglyoxal,broader
+stem cells,neoplastic stem cell,broader
+behavior,sex behavior,broader
+tissues,peritoneal stoma,broader
+pentosyltransferases,glutamine amidophosphoribosyltransferase,broader
+food handling,cookery,broader
+hiv infections,aids,broader
+pharmacokinetics,biologic availability,broader
+cell adhesion molecules,inducible cell adhesion molecule 110,broader
+diverticular diseases,diverticulosis,broader
+visual perception,perceptual closures,broader
+clinical laboratory techniques,hematologic tests,broader
+patient reported outcome measures,sino nasal outcome test,broader
+immune system phenomena,antibody affinity,broader
+mouth diseases,oral tuberculosis,broader
+infections,laboratory infection,broader
+glycogen storage disease,glycogen storage disease type vi,broader
+photosensitivity disorders,phototoxic contact dermatitides,broader
+fetuins,alpha 2 hs glycoprotein,broader
+neurocutaneous syndromes,encephalofacial hemangiomatosis syndrome,broader
+neural tube defects,arnold chiari malformation,broader
+vesicular transport proteins,munc18 proteins,broader
+diterpenes,taxoid,broader
+tumor suppressor proteins,partner and localizer of brca2 protein,broader
+hair,eyebrows,broader
+steroid hydroxylases,cytochrome p 450 cyp11b1,broader
+mental disorders,dissociative reactions,broader
+pharyngeal muscles,velopharyngeal sphincter,broader
+tombusviridae,carmoviruses,broader
+gene components,5' top messenger rna,broader
+wrist joint,triangular fibrocartilage,broader
+glycopeptides,lipoglycopeptides,broader
+personnel management,employee turnover,broader
+mitochondrial uncoupling proteins,slc25a7 protein,broader
+personnel management,employee participation,broader
+complement system proteins,complement complex c5b 9,broader
+health facilities,resident run clinic,broader
+terpenes,gefarnate,broader
+mammals,eutherian,broader
+lymphatic diseases,lymphangitides,broader
+head,ears,broader
+automation,multiple instance learning,broader
+epitopes,b cell epitopes,broader
+chorea,chorea acanthocytoses,broader
+methyltransferases,s methylmethionine homocysteine methyltransferase,broader
+fungi,microsporidians,broader
+group i chaperonins,heat shock proteins 10,broader
+inhibitor of apoptosis proteins,naip protein,broader
+polyribonucleotides,poly c,broader
+agricultural workers' diseases,cinac,broader
+benzazepines,galanthamine,broader
+multigene family,mdr gene,broader
+human activities,retirements,broader
+fabaceae,hymenaea,broader
+amino acid motifs,zinc finger,broader
+minor histocompatibility antigens,pyk2 protein tyrosine kinase,broader
+amphibian venoms,bombesin,broader
+microtechnology,microfluidics,broader
+digestive system surgical procedures,gastropexis,broader
+psychophysiology,organoleptic,broader
+mitochondrial trifunctional protein,enoyl coa hydratases,narrower
+holoprosencephaly,corpus callosum hypogeneses,narrower
+maxillary fractures,jaw fractures,narrower
+vestibulocochlear physiological phenomena,physiological phenomena,narrower
+allergic fungal sinusitis,fungal diseases,narrower
+polyplacophora,mollusks,narrower
+diabetic nephropathies,diabetes mellitus complication,narrower
+vernalization,plant developments,narrower
+trauma centers,emergency hospital service,narrower
+electron transport complex ii,iron sulfur proteins,narrower
+dicistroviridae,group iv single stranded rna viruses,narrower
+magnetoencephalography,neurological diagnostic technique,narrower
+finger injuries,hand injuries,narrower
+matrix metalloproteinase 8,collagenase,narrower
+vision disorders,eye diseases,narrower
+phd zinc fingers,zinc finger,narrower
+mtor inhibitors,anticancer agents,narrower
+super enhancers,enhancer sequence,narrower
+hemofiltration,kidney replacement therapies,narrower
+tool use behavior,animal behaviors,narrower
+pyoderma gangrenosum,vascular skin diseases,narrower
+closteroviridae,group iv single stranded rna viruses,narrower
+genital diseases,genitourinary diseases,narrower
+programmed cell death 1 ligand 2 protein,immune checkpoint proteins,narrower
+autogenic training,mesmerism,narrower
+tooth injuries,injuries and wounds,narrower
+picornaviridae,group iv single stranded rna viruses,narrower
+myosarcoma,muscle tissue neoplasms,narrower
+cerebral crus,basis pedunculi,narrower
+anodontia,tooth abnormalities,narrower
+ox40 ligand,immune checkpoint proteins,narrower
+hip injuries,injuries and wounds,narrower
+adenylosuccinate lyase,amidine lyases,narrower
+musculoskeletal pain,organoleptic,narrower
+tendon injuries,injuries and wounds,narrower
+population control,stationary population,narrower
+proprioception,organoleptic,narrower
+latanoprost,pgf synthetic,narrower
+cerebrovascular circulation,blood flow,narrower
+squamous intraepithelial lesions of the cervix,squamous intraepithelial lesions,narrower
+alphainfluenzavirus,orthomyxoviruses,narrower
+multiphasic screening,mass screening,narrower
+islets of langerhans transplantation,endocrine surgical procedures,narrower
+housing,place of birth,narrower
+starch phosphorylase,phosphorylases,narrower
+sexual harassment,sex behavior,narrower
+sialyl lewis x antigen,cd15 antigens,narrower
+urogenital neoplasms,genitourinary diseases,narrower
+contraceptive effectiveness,fertility control,narrower
+tenofovir,vitamin b 4,narrower
+polycomb repressive complex 2,pcg complex protein,narrower
+dens in dente,tooth abnormalities,narrower
+heparin antagonists,coagulants,narrower
+cochlear nerve,statoacoustic nerve,narrower
+anaphylatoxins,complement protein,narrower
+epsilonretrovirus,oncovirinae,narrower
+eye neoplasms,eye diseases,narrower
+periamygdaloid cortex,corticomedial nuclei,narrower
+scholarly communication,social networking,narrower
+medical overuse,health services misuses,narrower
+ichthyosis,keratoses,narrower
+coronary vessels,vein,narrower
+swallows,songbirds,narrower
+animal distribution,animal behaviors,narrower
+carnivora,eutherian,narrower
+carboprost,pgf synthetic,narrower
+movement,physiological phenomena,narrower
+aortic valve stenosis,ventricular outflow obstructions,narrower
+agglutinins,coagulants,narrower
+neonatal brachial plexus palsy,brachial plexopathy,narrower
+ovariectomy,gonadectomy,narrower
+joint dislocations,injuries and wounds,narrower
+radiation leukemia virus,murine leukemia viruses,narrower
+lacrimal apparatus diseases,eye diseases,narrower
+smart glasses,microcomputers,narrower
+self mutilation,injuries and wounds,narrower
+feeding behavior,animal behaviors,narrower
+iron regulatory protein 1,iron sulfur proteins,narrower
+gait analysis,physical functional performances,narrower
+treatment effect heterogeneity,clinical efficacy,narrower
+therapeutic index,clinical efficacy,narrower
+galactosylceramidase,galactosidases,narrower
+functional status,general health levels,narrower
+insulin secretagogues,antidiabetic drugs,narrower
+conjunctival diseases,eye diseases,narrower
+iga vasculitis,vascular skin diseases,narrower
+polystyrenes,plastic,narrower
+eyelid diseases,eye diseases,narrower
+fibrillins,extracellular matrix proteins,narrower
+smartphone,tablet computers,narrower
+limbic encephalitis,central nervous system viral diseases,narrower
+fluid shifts,physiological phenomena,narrower
+cryoglobulinemia,vascular skin diseases,narrower
+splanchnic circulation,blood flow,narrower
+foramen magnum,occipital bones,narrower
+horner syndrome,mioses,narrower
+leukocyte adherence inhibition test,immunological tests,narrower
+venae cavae,vein,narrower
+fludrocortisone,hydrocortisone,narrower
+systemic inflammatory response syndrome,shock,narrower
+p1 bacteriophage artificial chromosomes,gamma butyrobetaine hydroxylase,other
+optometry,calystegia,other
+rate setting and review,onygenales,other
+cell division,restriction endonuclease mappings,other
+toxin antibody conjugates,female pattern baldness,other
+h4 receptors,antibody classes,other
+need certificate,isolation hospitals,other
+thin layer chromatography,hyaenidae,other
+dermis,psychology unconscious,other
+pelvic cake kidney,indirect calorimetry,other
+desmoplastic fibroblastomas,basal ganglia vascular disease,other
+t cell gene rearrangement,anteroseptal myocardial infarction,other
+digilanides,rectal neoplasms,other
+haemosporina,employee health benefit plans,other
+il10,acute disseminated encephalomyelitis,other
+lactosyl ceramides,real world clinical trials,other
+vitamin d3 receptors,glutathione synthetase,other
+group iv single stranded rna viruses,vaginal births after cesarean,other
+phosphoenolpyruvate carboxylase,rrm motifs,other
+alpha gs,d 3 hydroxybutyrate dehydrogenase,other
+patient reported outcomes,trichostrongyloideas,other
+crangonidae,flow injection analysis,other
+nonhodgkins lymphoma,subacute sclerosing panencephalitis,other
+dnmt3a protein,multiple instance learning,other
+ice covers,elbow fracture,other
+huc paraneoplastic encephalomyelitis antigen,monobactam,other
+postganglionic autonomic fibers,methylergobasin,other
+retinal photoreceptor pigments,knee chest position,other
+babesia,lissencephalia,other
+collective bargaining,tear gases,other
+ado trastuzumab emtansine,abortifacient effects,other
+aids seroconversion,microphysiological system,other
+donor feces infusions,patched homolog 2,other
+oncovirinae,coral snakes,other
+pleuroscopies,hla b38,other
+cos cell,argyria,other
+pernicious anemia,frontal bone,other
+secondary referral center,scala vestibuli,other
+muscular development,latent autoimmune diabetes of adults,other
+cdk5 protein kinase,occupational accident,other
+national center for advancing translational sciences,logasthenia,other
+physician patient relationship,hana glycoprotein,other
+fecv,nortropanes,other
+rhesus macaque,pessaries,other
+religion and science,sudden hearing loss,other
+surface antigens,initiator codons,other
+conditional variable,aggrecan,other
+vernix caseosa,isotonic solutions,other
+hepatocerebral encephalopathy,motor skill,other
+cholangiocarcinomas,iduronidase,other
+epha6 protein,tibial nerve,other
+desferrioxamine,sulfonamide mixtures,other
+radiopharmaceuticals,gliflozin,other
+cardiac papillary fibroelastomas,vault rnp particles,other
+bronchitides,bone morphogenetic protein,other
+estrogen receptor modulator,exercise movement technics,other
+biocytin hydrolase,metastrongyloidea,other
+incentive reimbursement,diagnostic uses of chemicals,other
+wild fire,frontotemporal lobar degeneration,other
+colonic disease,bromides,other
+adult day care center,prolyl leucyl glycinamide,other
+sleep terror disorder,butanoic acid,other
+energy resources conservations,alpha endorphin,other
+acupuncture points,phosphotriesterase,other
+blastocystina,pip2 phosphoinositidase c,other
+binetrakin,hand arm vibration syndrome,other
+heat shock proteins 10,pulmonary alveolus,other
+marburgvirus,child sexual abuse,other
+bayesian method,pilar cyst,other
+meningismus,terminator regions,other
+dimethylformamide,extracellular signal regulated map kinase,other
+medicare hospital insurance program,oxytocic agent,other
+heavy chain disease,thrombocytoses,other
+patients' right,medical undertreatments,other
+inbred dahl rats,contraceptive method,other
+gb virus c,microbial community compositions,other
+lowe bickel syndrome,aerospace medicine,other
+vasoactive intestinal peptide receptor 2,r type vdcc,other
+fecal transplant,cryptococcal meningitis,other
+rap gtp binding proteins,glutamate formiminotransferase,other
+basic amino acid,third cranial nerve,other
+h1n2 subtype,papulosquamous skin diseases,other
+isoelectric focusing,intraocular lens implantations,other
+climate distress,oxilapine,other
+slave,enbucrilate,other
+complementarity determining region,broca speech area,other
+pgf synthetic,os naviculare manus,other
+schwannomin protein,political activism,other
+paracoccidioidal granuloma,delayed action preparations,other
+vein,cystinaminopeptidase,other
+quinazoline,enterobiases,other
+diarylheptanoid derivatives,sociopathic personality,other
+hyperandrogenism,cardiotoxic agent,other
+jc polyomavirus encephalopathy,alpha mannosidase b deficiency,other
+benzoate 4 hydroxylase,salivary calculi,other
+anaplasma ovis,pyruvates,other
+mammalian type c retroviruses,traditional healing,other
+pregnancy toxemia,human genome mapping project,other
+dye dilution technics,ballota,other
+psychological refractory period,centrin,other
+insurance claim reviews,insurance claim review,same-as
+coomb test,coombs test,same-as
+iap pertussis toxin,pertussis toxin,same-as
+histone mark,histone code,same-as
+compulsive behaviors,compulsive behavior,same-as
+giant urticaria,angioedema,same-as
+grewias,grewia,same-as
+caesarean sections,cesarean section,same-as
+pyogenic iliopsoas abscess,psoas abscess,same-as
+m4 ldh,lactate dehydrogenase 5,same-as
+coliphage t7,bacteriophage t7,same-as
+slc25a7 protein,uncoupling protein 1,same-as
+carborane compounds,carboranes,same-as
+long chain acyl coa,acyl coenzyme a,same-as
+neighborhood ethnic racial composition,residential segregation,same-as
+plasmodiophoromycetes,plasmodiophorida,same-as
+health rights,right to health,same-as
+bladder neck obstruction,urinary bladder neck obstruction,same-as
+linums,flax,same-as
+type i chaperonins,group i chaperonins,same-as
+nationality,ethnicity,same-as
+sustained viral suppression,sustained virologic response,same-as
+robot surgery,robotic surgical procedures,same-as
+cinac,chronic kidney diseases of uncertain etiology,same-as
+eosinophilic hyperplastic lymphogranuloma,kimura disease,same-as
+schwannomin protein,neurofibromin 2,same-as
+almetric attention score,altmetrics,same-as
+blood group lewis related antigens,lewis blood group antigens,same-as
+under treatment,undertreatment,same-as
+medical tourists,medical tourism,same-as
+serpula hyodysenteriae,brachyspira hyodysenteriae,same-as
+reference ranges,reference values,same-as
+microbial inactivation,microbial viability,same-as
+nervus accessorius,accessory nerve,same-as
+craniofacial microsomias,goldenhar syndrome,same-as
+ileal disease,ileal diseases,same-as
+amphibian venom,amphibian venoms,same-as
+fetal growth restriction,fetal growth retardation,same-as
+aortopulmonary septal defects,aortopulmonary septal defect,same-as
+biological rhythms,periodicity,same-as
+corpus callosum hypogeneses,agenesis of corpus callosum,same-as
+suppurative hidradenitides,hidradenitis suppurativa,same-as
+aids,acquired immunodeficiency syndrome,same-as
+activation analyses,activation analysis,same-as
+white persons,white people,same-as
+physical functional performances,physical functional performance,same-as
+health services misuses,health services misuse,same-as
+antidiabetic drugs,hypoglycemic agents,same-as
+refetoff syndrome,thyroid hormone resistance syndrome,same-as
+neuronal pathfinding,axon guidance,same-as
+ferroportin1 protein,ferroportin,same-as
+leu m5 antigens,cd11c antigen,same-as
+neural pathfinding,axon guidance,same-as
+retinoid,retinoids,same-as
+skin peeling agents,keratolytic agents,same-as
+eutherian,eutheria,same-as
+type xii collagen,collagen type xii,same-as
+immunomagnetic bead techniques,immunomagnetic separation,same-as
+nursing service,nursing services,same-as
+company physician,occupational health physicians,same-as
+neurosporas,neurospora,same-as
+electrical concept,electromagnetic phenomena,same-as
+octanoates,caprylates,same-as
+compound q,trichosanthin,same-as
+bacterial zoonose,bacterial zoonoses,same-as
+sphenopalatine ganglion blocks,sphenopalatine ganglion block,same-as
+concept research proof,proof of concept study,same-as
+guanosine monophosphate reductase,gmp reductase,same-as
+periodontal resorptions,alveolar bone loss,same-as
+adrenergic agent,adrenergic agents,same-as
+gastrointestinal flora,gastrointestinal microbiome,same-as
+antennal sensillum,sensilla,same-as
+symptom cluster,syndrome,same-as
+toxin antibody hybrid,immunotoxins,same-as
+hippo pathway,hippo signaling pathway,same-as
+vitamin b 4,adenine,same-as
+radiation recall reaction,radiodermatitis,same-as
+stromelysin 2,matrix metalloproteinase 10,same-as
+selenous acid,selenious acid,same-as
+medical mistakes,medical errors,same-as
+hepg2 cell,hep g2 cells,same-as
+paramorphan,dihydromorphine,same-as
+pharynx neoplasm,pharyngeal neoplasms,same-as
+insect parvovirus,densovirus,same-as
+bariatric surgical procedure,bariatric surgery,same-as
+toxin antibody conjugates,immunotoxins,same-as
+mysticisms,mysticism,same-as
+pubic symphysis diastases,pubic symphysis diastasis,same-as
+reaven syndrome x,metabolic syndrome,same-as
+connexin complex proteins,connexins,same-as
+thrombocytoses,thrombocytosis,same-as
+hirudineas,leeches,same-as
+day surgery,ambulatory surgical procedures,same-as
+child nutritional physiology phenomenon,child nutritional physiological phenomena,same-as
+cd15 antigens,lewis x antigen,same-as
+5 bromo 2' deoxycytidine,bromodeoxycytidine,same-as
+asiatic cobras,naja naja,same-as
+dendritic prunings,neuronal plasticity,same-as
+electroporation therapy,electroporation therapies,same-as
+cot death,sudden infant death,same-as
